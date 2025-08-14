@@ -218,7 +218,7 @@ export default function Home() {
       <div className="flex items-start justify-between sticky top-0 h-screen w-full bg-gradient-to-t from-black to-[#071844]">
         <div className=" absolute inset-x-0 top-[168px] w-full  flex justify-center">
           <h1 className="grotesk text-[40px] font-medium text-white text-center">
-            Software Development Services: <br /> Where We Excel
+            Full Stack Development: <br /> From Idea to Scalable Solution
           </h1>
         </div>
         {/* Right Section */}
@@ -282,7 +282,7 @@ export default function Home() {
               {temp === 6 ? icons[temp]?.content : icons[temp + 1]?.content}
             </p>
             <button className="rounded-full text-white bg-[#7793FF] h-[65.29px] w-[209.86px] mt-8">
-              Hire US
+              Hire
             </button>
           </div>
         </div>
